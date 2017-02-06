@@ -1,2 +1,2 @@
 // Awesome Interactions
-console.log('Hello');
+$('header').fitText();
